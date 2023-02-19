@@ -9,12 +9,17 @@ import { BaseProps } from './common/types';
 import { Recorder } from './recorder/recorder';
 import { miuiTheme } from './styles/theme';
 
-const routes = createBrowserRouter([
+const routes = createBrowserRouter(
+	[
+		{
+			path: '/',
+			element: <Recorder />,
+		},
+	],
 	{
-		path: '/',
-		element: <Recorder />,
+		basename: process.env.PUBLIC_URL,
 	},
-]);
+);
 
 const Providers = ({ children }: BaseProps) => {
 	return <ThemeProvider theme={miuiTheme}>{children}</ThemeProvider>;
