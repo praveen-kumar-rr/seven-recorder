@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/seven-recorder/static/css/main.586d1fe0.css",
-    "main.js": "/seven-recorder/static/js/main.7de92bd6.js",
-    "static/js/27.66b1d7bd.chunk.js": "/seven-recorder/static/js/27.66b1d7bd.chunk.js",
+    "main.js": "/seven-recorder/static/js/main.51710cca.js",
+    "static/js/522.bd57749c.chunk.js": "/seven-recorder/static/js/522.bd57749c.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/seven-recorder/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/seven-recorder/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/seven-recorder/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
@@ -39,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.586d1fe0.css",
-    "static/js/main.7de92bd6.js"
+    "static/js/main.51710cca.js"
   ]
 }
